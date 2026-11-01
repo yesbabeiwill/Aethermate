@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "Author": "Aethermate",
+    "Name": "以太同行",
+    "InternalName": "Aethermate",
+    "RepoUrl": "https://github.com/yesbabeiwill/Aethermate",
+    "AssemblyVersion": "1.0.1.0",
+    "Description": "在游戏内使用自定义模型接口聊天，支持流式回复、重新生成和本地聊天记录。",
+    "Punchline": "游戏内模型聊天工具。",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "LoadPriority": 0,
+    "Tags": [
+      "chat",
+      "llm"
+    ],
+    "IsHide": false,
+    "DownloadLinkInstall": "https://github.com/yesbabeiwill/Aethermate/releases/download/v1.0.1/Aethermate-1.0.1.zip",
+    "DownloadLinkUpdate": "https://github.com/yesbabeiwill/Aethermate/releases/download/v1.0.1/Aethermate-1.0.1.zip",
+    "IsTestingExclusive": false,
+    "LastUpdate": 1793556469,
+    "Changelog": "以太同行 1.0.1\n\n改善重新生成后的回复显示一致性，保留已有本地设置与聊天记录。支持自定义 API 地址与 Key、模型列表及流式聊天。"
+  }
+]
