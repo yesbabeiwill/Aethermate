@@ -4,7 +4,7 @@
     "Name": "以太同行",
     "InternalName": "Aethermate",
     "RepoUrl": "https://github.com/yesbabeiwill/Aethermate",
-    "AssemblyVersion": "1.0.2.0",
+    "AssemblyVersion": "1.0.3.0",
     "Description": "在游戏内使用自定义模型接口聊天，支持流式回复、重新生成和本地聊天记录。",
     "Punchline": "游戏内模型聊天工具。",
     "ApplicableVersion": "any",
@@ -15,10 +15,10 @@
       "llm"
     ],
     "IsHide": false,
-    "DownloadLinkInstall": "https://github.com/yesbabeiwill/Aethermate/releases/download/v1.0.2/Aethermate-1.0.2.zip",
-    "DownloadLinkUpdate": "https://github.com/yesbabeiwill/Aethermate/releases/download/v1.0.2/Aethermate-1.0.2.zip",
+    "DownloadLinkInstall": "https://github.com/yesbabeiwill/Aethermate/releases/download/v1.0.3/Aethermate-1.0.3.zip",
+    "DownloadLinkUpdate": "https://github.com/yesbabeiwill/Aethermate/releases/download/v1.0.3/Aethermate-1.0.3.zip",
     "IsTestingExclusive": false,
-    "LastUpdate": 1793559539,
-    "Changelog": "优化游戏内模型聊天界面的显示稳定性。"
+    "LastUpdate": 1793618210,
+    "Changelog": "移除自定义 API 聊天的固定输出上限与相关滑块，改用内置提示词自然引导回复长度，不规定字数或消息条数。\n修复流式回复显示、分段及尾句保留，完善思考内容过滤和异常结束提示。"
   }
 ]
