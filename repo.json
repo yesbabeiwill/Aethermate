@@ -4,7 +4,7 @@
     "Name": "以太同行",
     "InternalName": "Aethermate",
     "RepoUrl": "https://github.com/yesbabeiwill/Aethermate",
-    "AssemblyVersion": "2.0.0.0",
+    "AssemblyVersion": "2.0.2.0",
     "Description": "在游戏内使用自定义模型接口聊天，支持流式回复、重新生成和本地聊天记录。",
     "Punchline": "游戏内模型聊天工具。",
     "ApplicableVersion": "any",
@@ -15,10 +15,10 @@
       "llm"
     ],
     "IsHide": false,
-    "DownloadLinkInstall": "https://github.com/yesbabeiwill/Aethermate/releases/download/v2.0.0/Aethermate-2.0.0.zip",
-    "DownloadLinkUpdate": "https://github.com/yesbabeiwill/Aethermate/releases/download/v2.0.0/Aethermate-2.0.0.zip",
+    "DownloadLinkInstall": "https://github.com/yesbabeiwill/Aethermate/releases/download/v2.0.2/Aethermate-2.0.2.zip",
+    "DownloadLinkUpdate": "https://github.com/yesbabeiwill/Aethermate/releases/download/v2.0.2/Aethermate-2.0.2.zip",
     "IsTestingExclusive": false,
-    "LastUpdate": 1793786581,
-    "Changelog": "以太同行 v2.0.0\n\n- 修复切换自定义 API 模型时聊天记录随之切换的问题，换模型继续当前本地对话。\n- 兼容读取旧版按模型保存的聊天记录，保留原文件，并提供旧记录恢复入口。\n- 修复清空会话或删除消息后旧记录可能再次出现的问题。\n- 改善流式回复过滤，隐藏部分模型混入正文的非标准写作备注。\n- 保留游戏聊天格式及 RP log 编辑器格式的 TXT 导入导出。"
+    "LastUpdate": 1793799502,
+    "Changelog": "以太同行 v2.0.2\n\n维护更新，保留自定义模型 API 接入、流式回复及本地聊天记录功能。"
   }
 ]
