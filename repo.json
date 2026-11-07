@@ -4,7 +4,7 @@
     "Name": "以太同行",
     "InternalName": "Aethermate",
     "RepoUrl": "https://github.com/yesbabeiwill/Aethermate",
-    "AssemblyVersion": "3.0.6.0",
+    "AssemblyVersion": "3.0.7.0",
     "Description": "在游戏内使用自定义模型接口聊天，支持流式回复、重新生成和本地聊天记录。",
     "Punchline": "游戏内模型聊天工具。",
     "ApplicableVersion": "any",
@@ -15,10 +15,10 @@
       "llm"
     ],
     "IsHide": false,
-    "DownloadLinkInstall": "https://github.com/yesbabeiwill/Aethermate/releases/download/v3.0.6/Aethermate-3.0.6.zip",
-    "DownloadLinkUpdate": "https://github.com/yesbabeiwill/Aethermate/releases/download/v3.0.6/Aethermate-3.0.6.zip",
+    "DownloadLinkInstall": "https://github.com/yesbabeiwill/Aethermate/releases/download/v3.0.7/Aethermate-3.0.7.zip",
+    "DownloadLinkUpdate": "https://github.com/yesbabeiwill/Aethermate/releases/download/v3.0.7/Aethermate-3.0.7.zip",
     "IsTestingExclusive": false,
-    "LastUpdate": 1794068135,
-    "Changelog": "- 改善外部网页无法自动打开时的操作提示，提供手动打开及复制入口。\n- 修正连接超时被显示为取消操作的问题，细化网络错误提示。\n- 补充不包含聊天内容和凭据的故障诊断信息。"
+    "LastUpdate": 1794071087,
+    "Changelog": "修复内部时间标记、格式说明等内容误显示在聊天正文的问题。\n改善旧聊天记录的正文清理，保留正常日期对白和时间顺序。"
   }
 ]
