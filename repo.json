@@ -4,7 +4,7 @@
     "Name": "以太同行",
     "InternalName": "Aethermate",
     "RepoUrl": "https://github.com/yesbabeiwill/Aethermate",
-    "AssemblyVersion": "3.1.2.0",
+    "AssemblyVersion": "3.1.3.0",
     "Description": "在游戏内使用自定义模型接口聊天，支持流式回复、重新生成和本地聊天记录。",
     "Punchline": "游戏内模型聊天工具。",
     "ApplicableVersion": "any",
@@ -15,10 +15,10 @@
       "llm"
     ],
     "IsHide": false,
-    "DownloadLinkInstall": "https://github.com/yesbabeiwill/Aethermate/releases/download/v3.1.2/Aethermate-3.1.2.zip",
-    "DownloadLinkUpdate": "https://github.com/yesbabeiwill/Aethermate/releases/download/v3.1.2/Aethermate-3.1.2.zip",
+    "DownloadLinkInstall": "https://github.com/yesbabeiwill/Aethermate/releases/download/v3.1.3/Aethermate-3.1.3.zip",
+    "DownloadLinkUpdate": "https://github.com/yesbabeiwill/Aethermate/releases/download/v3.1.3/Aethermate-3.1.3.zip",
     "IsTestingExclusive": false,
-    "LastUpdate": 1794165575,
-    "Changelog": "修复随身神典石接力状态显示和操作入口，支持检查本机未完成的接力；完善情景切换时的等待提示。"
+    "LastUpdate": 1794169160,
+    "Changelog": "- 新增神典石会话安全收回：原手机入口丢失时，可在电脑确认并备份后恢复使用。\n- 显示持有会话的设备入口，帮助区分浏览器、主屏幕网页版和安卓 App。\n- 收回后保留旧副本，防止迟到的手机记录覆盖电脑新聊天。\n\n手机请在设置内检查网页更新，无需删除桌面图标或清理数据。"
   }
 ]
