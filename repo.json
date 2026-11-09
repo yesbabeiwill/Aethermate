@@ -4,7 +4,7 @@
     "Name": "以太同行",
     "InternalName": "Aethermate",
     "RepoUrl": "https://github.com/yesbabeiwill/Aethermate",
-    "AssemblyVersion": "3.1.4.0",
+    "AssemblyVersion": "3.1.5.0",
     "Description": "在游戏内使用自定义模型接口聊天，支持流式回复、重新生成和本地聊天记录。",
     "Punchline": "游戏内模型聊天工具。",
     "ApplicableVersion": "any",
@@ -15,10 +15,10 @@
       "llm"
     ],
     "IsHide": false,
-    "DownloadLinkInstall": "https://github.com/yesbabeiwill/Aethermate/releases/download/v3.1.4/Aethermate-3.1.4.zip",
-    "DownloadLinkUpdate": "https://github.com/yesbabeiwill/Aethermate/releases/download/v3.1.4/Aethermate-3.1.4.zip",
+    "DownloadLinkInstall": "https://github.com/yesbabeiwill/Aethermate/releases/download/v3.1.5/Aethermate-3.1.5.zip",
+    "DownloadLinkUpdate": "https://github.com/yesbabeiwill/Aethermate/releases/download/v3.1.5/Aethermate-3.1.5.zip",
     "IsTestingExclusive": false,
-    "LastUpdate": 1794194212,
-    "Changelog": "改善聊天消息的发送反馈、分段显示和动作格式。\n修复长文显示、本地记录恢复及设置列表刷新问题。\n完善异常格式过滤，保留原有本机配置与聊天记录。"
+    "LastUpdate": 1794202156,
+    "Changelog": "修复部分角色聊天署名与动作名称显示完整姓氏的问题。\n统一角色选择列表中的名称显示，保留原有分组与本地备注。"
   }
 ]
