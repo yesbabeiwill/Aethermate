@@ -4,7 +4,7 @@
     "Name": "以太同行",
     "InternalName": "Aethermate",
     "RepoUrl": "https://github.com/yesbabeiwill/Aethermate",
-    "AssemblyVersion": "3.1.10.0",
+    "AssemblyVersion": "3.1.11.0",
     "Description": "在游戏内使用自定义模型接口聊天，支持流式回复、重新生成和本地聊天记录。",
     "Punchline": "游戏内模型聊天工具。",
     "ApplicableVersion": "any",
@@ -15,10 +15,10 @@
       "llm"
     ],
     "IsHide": false,
-    "DownloadLinkInstall": "https://github.com/yesbabeiwill/Aethermate/releases/download/v3.1.10/Aethermate-3.1.10.zip",
-    "DownloadLinkUpdate": "https://github.com/yesbabeiwill/Aethermate/releases/download/v3.1.10/Aethermate-3.1.10.zip",
+    "DownloadLinkInstall": "https://github.com/yesbabeiwill/Aethermate/releases/download/v3.1.11/Aethermate-3.1.11.zip",
+    "DownloadLinkUpdate": "https://github.com/yesbabeiwill/Aethermate/releases/download/v3.1.11/Aethermate-3.1.11.zip",
     "IsTestingExclusive": false,
-    "LastUpdate": 1794331815,
-    "Changelog": "修复历史记录迁移与恢复的边界校验，完整保留已有内容。\n细分资料异常提示，便于定位具体失败原因。"
+    "LastUpdate": 1794336554,
+    "Changelog": "修复模型内部图片及结束标记误显示在回复正文的问题。\n改善流式回复与历史记录的正文清理，保留正常消息内容。\n模型仅返回无效标记时提示未收到正文，不自动重复生成。"
   }
 ]
