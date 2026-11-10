@@ -4,7 +4,7 @@
     "Name": "以太同行",
     "InternalName": "Aethermate",
     "RepoUrl": "https://github.com/yesbabeiwill/Aethermate",
-    "AssemblyVersion": "3.1.9.0",
+    "AssemblyVersion": "3.1.10.0",
     "Description": "在游戏内使用自定义模型接口聊天，支持流式回复、重新生成和本地聊天记录。",
     "Punchline": "游戏内模型聊天工具。",
     "ApplicableVersion": "any",
@@ -15,10 +15,10 @@
       "llm"
     ],
     "IsHide": false,
-    "DownloadLinkInstall": "https://github.com/yesbabeiwill/Aethermate/releases/download/v3.1.9/Aethermate-3.1.9.zip",
-    "DownloadLinkUpdate": "https://github.com/yesbabeiwill/Aethermate/releases/download/v3.1.9/Aethermate-3.1.9.zip",
+    "DownloadLinkInstall": "https://github.com/yesbabeiwill/Aethermate/releases/download/v3.1.10/Aethermate-3.1.10.zip",
+    "DownloadLinkUpdate": "https://github.com/yesbabeiwill/Aethermate/releases/download/v3.1.10/Aethermate-3.1.10.zip",
     "IsTestingExclusive": false,
-    "LastUpdate": 1794325433,
-    "Changelog": "细分模型请求失败提示，区分余额预扣、令牌、模型渠道、限流及网络问题。\n修复大型本地聊天 TXT 导入的旧容量限制，保留备份与角色校验。\n改进会话重开与记录恢复，保留最近24条完整NPC回复及相关用户消息的上下文窗口。"
+    "LastUpdate": 1794331815,
+    "Changelog": "修复历史记录迁移与恢复的边界校验，完整保留已有内容。\n细分资料异常提示，便于定位具体失败原因。"
   }
 ]
