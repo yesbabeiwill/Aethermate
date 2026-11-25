@@ -4,7 +4,7 @@
     "Name": "以太同行",
     "InternalName": "Aethermate",
     "RepoUrl": "https://github.com/yesbabeiwill/Aethermate",
-    "AssemblyVersion": "3.3.9.0",
+    "AssemblyVersion": "3.3.10.0",
     "Description": "在游戏内使用自定义模型接口聊天，支持流式回复、重新生成和本地聊天记录。",
     "Punchline": "游戏内模型聊天工具。",
     "ApplicableVersion": "any",
@@ -15,10 +15,10 @@
       "llm"
     ],
     "IsHide": false,
-    "DownloadLinkInstall": "https://github.com/yesbabeiwill/Aethermate/releases/download/v3.3.9/Aethermate-3.3.9.zip",
-    "DownloadLinkUpdate": "https://github.com/yesbabeiwill/Aethermate/releases/download/v3.3.9/Aethermate-3.3.9.zip",
+    "DownloadLinkInstall": "https://github.com/yesbabeiwill/Aethermate/releases/download/v3.3.10/Aethermate-3.3.10.zip",
+    "DownloadLinkUpdate": "https://github.com/yesbabeiwill/Aethermate/releases/download/v3.3.10/Aethermate-3.3.10.zip",
     "IsTestingExclusive": false,
-    "LastUpdate": 1795607222,
-    "Changelog": "以太同行 3.3.9\n\n不同会话的回复可以同时生成。切换角色或通讯贝后，回复会继续写入原会话。停止当前回复时，其他会话可以继续。\n\n在游戏内的以太同行插件仓库检查更新。"
+    "LastUpdate": 1795648702,
+    "Changelog": "修复正常对话及英文单词被关键词规则误拦截的问题。改善配套功能兼容性。"
   }
 ]
