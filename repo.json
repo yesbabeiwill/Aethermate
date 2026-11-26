@@ -4,7 +4,7 @@
     "Name": "以太同行",
     "InternalName": "Aethermate",
     "RepoUrl": "https://github.com/yesbabeiwill/Aethermate",
-    "AssemblyVersion": "3.3.11.0",
+    "AssemblyVersion": "3.3.12.0",
     "Description": "在游戏内使用自定义模型接口聊天，支持流式回复、重新生成和本地聊天记录。",
     "Punchline": "游戏内模型聊天工具。",
     "ApplicableVersion": "any",
@@ -15,10 +15,10 @@
       "llm"
     ],
     "IsHide": false,
-    "DownloadLinkInstall": "https://github.com/yesbabeiwill/Aethermate/releases/download/v3.3.11/Aethermate-3.3.11.zip",
-    "DownloadLinkUpdate": "https://github.com/yesbabeiwill/Aethermate/releases/download/v3.3.11/Aethermate-3.3.11.zip",
+    "DownloadLinkInstall": "https://github.com/yesbabeiwill/Aethermate/releases/download/v3.3.12/Aethermate-3.3.12.zip",
+    "DownloadLinkUpdate": "https://github.com/yesbabeiwill/Aethermate/releases/download/v3.3.12/Aethermate-3.3.12.zip",
     "IsTestingExclusive": false,
-    "LastUpdate": 1795667219,
-    "Changelog": "以太同行 3.3.11\n\n修复共听误提示“未结束线下会面”，同步所选角色的当前会面状态。\n支持在线下现场一起听歌，保留原场景与长文格式。\n私密歌单支持完整分批导入，取消前 100 首限制。"
+    "LastUpdate": 1795692982,
+    "Changelog": "以太同行 3.3.12\n\n角色选择列表补充所属时期，便于区分同名角色；同步补齐通讯贝、会面及记忆成员等选择入口，改善长名称的展示。"
   }
 ]
