@@ -4,7 +4,7 @@
     "Name": "以太同行",
     "InternalName": "Aethermate",
     "RepoUrl": "https://github.com/yesbabeiwill/Aethermate",
-    "AssemblyVersion": "3.3.13.0",
+    "AssemblyVersion": "3.3.14.0",
     "Description": "在游戏内使用自定义模型接口聊天，支持流式回复、重新生成和本地聊天记录。",
     "Punchline": "游戏内模型聊天工具。",
     "ApplicableVersion": "any",
@@ -15,10 +15,10 @@
       "llm"
     ],
     "IsHide": false,
-    "DownloadLinkInstall": "https://github.com/yesbabeiwill/Aethermate/releases/download/v3.3.13/Aethermate-3.3.13.zip",
-    "DownloadLinkUpdate": "https://github.com/yesbabeiwill/Aethermate/releases/download/v3.3.13/Aethermate-3.3.13.zip",
+    "DownloadLinkInstall": "https://github.com/yesbabeiwill/Aethermate/releases/download/v3.3.14/Aethermate-3.3.14.zip",
+    "DownloadLinkUpdate": "https://github.com/yesbabeiwill/Aethermate/releases/download/v3.3.14/Aethermate-3.3.14.zip",
     "IsTestingExclusive": false,
-    "LastUpdate": 1795779069,
-    "Changelog": "以太同行 3.3.13 · 聊天定位修复\n\n修复重新打开聊天窗口、从其他标签返回聊天时没有显示最新消息的问题；保留主动翻阅历史消息时的阅读位置。"
+    "LastUpdate": 1795780131,
+    "Changelog": "以太同行 3.3.14 · 通讯贝创建提示\n\n创建通讯贝后显示清晰的成功提示；防止连续点击重复创建，创建失败时保留名称与成员选择。"
   }
 ]
